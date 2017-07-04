@@ -1,0 +1,23 @@
+{
+  "name": "node2erpnext",
+  "version": "0.0.4",
+  "description": "erpnext library in nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanselke/node2erpnext.git"
+  },
+  "keywords": [
+    "nodejs",
+    "erpnext"
+  ],
+  "author": "Hansel Ke (https://www.openb.net)",
+  "license": "CC-BY-NC-ND-4.0",
+  "bugs": {
+    "url": "https://github.com/hanselke/node2erpnext/issues"
+  },
+  "homepage": "https://github.com/hanselke/node2erpnext#readme"
+}
